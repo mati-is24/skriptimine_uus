@@ -22,3 +22,8 @@ tavakasutajana:
 
 	f)git remote kontroll
 	git remote -v
+	
+	põhikasutamine:
+
+	a) pane fail jälgimsele:
+	git add failinimi
